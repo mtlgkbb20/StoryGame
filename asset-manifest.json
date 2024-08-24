@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StoryGame/static/css/main.e6c13ad2.css",
+    "main.js": "/StoryGame/static/js/main.4ce3b8ae.js",
+    "static/js/453.35393c7a.chunk.js": "/StoryGame/static/js/453.35393c7a.chunk.js",
+    "static/media/character2.png": "/StoryGame/static/media/character2.a090c7107e3d0e6ac29b.png",
+    "static/media/location3.jpg": "/StoryGame/static/media/location3.af0efbd7704c3c03854e.jpg",
+    "static/media/character1.png": "/StoryGame/static/media/character1.d6e118807962e0e36958.png",
+    "static/media/location2.jpg": "/StoryGame/static/media/location2.a8001d09f72d5464af07.jpg",
+    "static/media/location4.jpg": "/StoryGame/static/media/location4.5a8f5ca6f65152f65c29.jpg",
+    "index.html": "/StoryGame/index.html",
+    "main.e6c13ad2.css.map": "/StoryGame/static/css/main.e6c13ad2.css.map",
+    "main.4ce3b8ae.js.map": "/StoryGame/static/js/main.4ce3b8ae.js.map",
+    "453.35393c7a.chunk.js.map": "/StoryGame/static/js/453.35393c7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ce3b8ae.js"
+  ]
+}
